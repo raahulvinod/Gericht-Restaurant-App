@@ -24,7 +24,7 @@ const Intro = () => {
         ref={vidRef}
         type="video/mp4"
         loop
-        contols={false}
+        controls={false}
         muted
       />
       <div className="app__video-overlay flex__center">
